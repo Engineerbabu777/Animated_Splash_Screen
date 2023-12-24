@@ -1,14 +1,13 @@
 
 
 
-
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
-export default function HomeScreen() {
+export default function NextScreen() {
   return (
     <View>
-      <Text>HomeScreen</Text>
+      <Text>NextScreen</Text>
     </View>
   )
 }
